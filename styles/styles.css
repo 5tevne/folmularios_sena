@@ -1,2 +1,8 @@
+*{margin: 5;
+padding: 5;
+text-decoration: nine;
+}
+h1{font-family: 'Climate Crisis', cursive}
+
 body{background-color: aqua;}
 button{color: aquamarine;background-color: rgba(0, 0, 255, 0.315);border-color: seagreen;font-family: 'Climate Crisis', cursive;}
